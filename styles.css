@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: black;
+    color: lime;
+}
+h1 {
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+.menu {
+    background-color: aqua;
+    text-align: center;
+    margin: 80px;
+}
+.menu ul {
+    display: inline-block;
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
